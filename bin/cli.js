@@ -19,7 +19,7 @@ const ALL_TOOLS = [
 ];
 
 program
-  .name("llmwiki")
+  .name("wikilm")
   .description("Initialize an LLM Wiki project structure")
   .version(version);
 

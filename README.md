@@ -13,16 +13,16 @@ A CLI to initialize an **LLM Wiki** project — a structured, interlinked knowle
 ### Installation
 
 ```bash
-npm install -g llmwiki
+npm install -g wikilm
 ```
 
 ### Usage
 
 ```bash
-llmwiki init [directory]          # Initialize in target dir (defaults to current)
-llmwiki init --agent all          # Generate configs for all supported tools
-llmwiki init --agent claude,codex # Generate configs for specific tools
-llmwiki init --help               # Show help
+wikilm init [directory]          # Initialize in target dir (defaults to current)
+wikilm init --agent all          # Generate configs for all supported tools
+wikilm init --agent claude,codex # Generate configs for specific tools
+wikilm init --help               # Show help
 ```
 
 ### Supported Agents
@@ -76,16 +76,16 @@ MIT
 ### 安装
 
 ```bash
-npm install -g llmwiki
+npm install -g wikilm
 ```
 
 ### 使用
 
 ```bash
-llmwiki init [目标目录]              # 在指定目录初始化（默认当前目录）
-llmwiki init --agent all            # 为所有支持的 AI 工具生成配置文件
-llmwiki init --agent claude,codex   # 为指定工具生成配置
-llmwiki init --help                 # 查看帮助
+wikilm init [目标目录]              # 在指定目录初始化（默认当前目录）
+wikilm init --agent all            # 为所有支持的 AI 工具生成配置文件
+wikilm init --agent claude,codex   # 为指定工具生成配置
+wikilm init --help                 # 查看帮助
 ```
 
 ### 支持的 AI 工具
