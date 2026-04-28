@@ -1,0 +1,36 @@
+{
+  "name": "llmwiki",
+  "version": "1.0.0",
+  "description": "CLI to initialize an LLM Wiki project — a structured, interlinked knowledge base maintained by LLM agents",
+  "license": "MIT",
+  "author": "hialuoy",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hialuoy/llmwiki.git"
+  },
+  "bin": {
+    "llmwiki": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "keywords": [
+    "llm",
+    "wiki",
+    "knowledge-base",
+    "claude-code",
+    "cursor",
+    "codex",
+    "cline",
+    "opencode",
+    "ai-wiki",
+    "cli"
+  ]
+}
