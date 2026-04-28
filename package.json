@@ -1,6 +1,6 @@
 {
   "name": "wikilm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to initialize an LLM Wiki project — a structured, interlinked knowledge base maintained by LLM agents",
   "license": "MIT",
   "author": "hialuoy",
