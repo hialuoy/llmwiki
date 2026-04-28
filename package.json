@@ -6,7 +6,7 @@
   "author": "hialuoy",
   "repository": {
     "type": "git",
-    "url": "git@github.com:hialuoy/llmwiki.git"
+    "url": "git@github.com:hialuoy/wikilm.git"
   },
   "bin": {
     "wikilm": "./bin/cli.js"
